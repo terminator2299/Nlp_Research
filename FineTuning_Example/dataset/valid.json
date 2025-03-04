@@ -1,0 +1,10 @@
+[
+    {
+        "tokens": ["Invoice", "Number:", "54321", "Billing", "Date:", "05-03-2024", "Total", "Amount:", "$300"],
+        "labels": ["O", "O", "B-INVOICE_NO", "O", "O", "B-DATE", "O", "O", "B-AMOUNT"]
+    },
+    {
+        "tokens": ["Receipt", "No.", "112233", "Generated", "on:", "20-01-2024", "Charge:", "$400"],
+        "labels": ["O", "O", "B-INVOICE_NO", "O", "O", "B-DATE", "O", "B-AMOUNT"]
+    }
+]
