@@ -1,0 +1,9 @@
+elasticsearch
+faiss-cpu
+sentence-transformers
+transformers
+torch
+numpy
+pandas
+fastapi
+uvicorn
